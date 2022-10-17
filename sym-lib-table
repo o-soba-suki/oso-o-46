@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "kbd")(type "Legacy")(uri "C:/workspace/keyboard/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "C:/workspace/keyboard/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "mkl27z256vfm4")(type "Legacy")(uri "C:/workspace/keyboard/kicad_lib_tmk-master/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/workspace/keyboard/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "Legacy")(uri "C:/workspace/keyboard/HRO_TYPE-C-31-M-12/TYPE-C-31-M-12.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "C:/workspace/keyboard/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "C:/workspace/keyboard/Keebio-Parts.pretty/keebio.lib")(options "")(descr ""))
+  (lib (name "Power_Protection")(type "Legacy")(uri "C:/workspace/keyboard/Power_Protection/Power_Protection.lib")(options "")(descr ""))
+)

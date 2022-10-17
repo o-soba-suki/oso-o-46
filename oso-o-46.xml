@@ -1,0 +1,2366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\w__d\OneDrive\ドキュメント\project\基板\keyboard\oso-o-46\oso-o-46.kicad_sch</source>
+    <date>2022/10/07 19:25:02</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>oso-o-46.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1729</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1729"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4a063e0-5a48-4182-be61-01f4ad483f11</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1729</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1729"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a98b7abb-8c38-4ec1-8f92-5f85e3afc11c</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C28323</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C28323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad03b827-ea61-494b-a9a8-7eb6b2796614</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C138344</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C138344"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eff80dff-0e4c-4acd-8821-af2ff0b209ea</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C138344</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C138344"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8beda5c-72dd-4ad3-90cf-6f600e7d8749</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C138344</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C138344"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a76fec83-7344-4c6d-ae3d-e9033c6f7073</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>692f4c22-0501-4e99-b92d-ed4b5bb1f557</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2286"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49e8fc92-672d-4143-9e45-8033219d8d4e</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18f06031-cab6-476e-94a4-12298f63aa54</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efb85850-51f2-4ec3-85c1-3ea075f30214</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>016d756f-f7d8-4665-ad64-b947142b5c11</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c0bac55-f17d-40d6-ae32-59a462114281</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a568ddd5-30bb-4aea-9e33-5fb173fa264c</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>425cacd1-8a0e-4bf2-ae4d-87c768008ec7</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffabe5e9-f774-471d-bdc6-b751a648cd0b</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d9e7888-d927-494f-b4fb-b703680879f4</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9997a94f-06a4-4e0f-bbc2-e5d284856d7d</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3a44c9f-2b06-47b6-8ced-eab60a6989ba</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe3cbffd-479f-406d-92a4-9793f862f8c7</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b52bf57a-109f-4415-ab61-83808560b3c3</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2595b5f-2f6f-4d58-b64b-49fe3626696b</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e5ee5a2-b418-4b3f-9b95-20ccbbc5b6ce</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e76efd4-02f7-4c1b-8019-9da55f2ca6ea</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a34f9f7a-5ea8-4f2e-aa64-112de59a4f5c</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1f6daaa-f05f-41a6-bdbb-1abc24057bd6</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c12517ec-a116-4e76-b32f-00ccd88f73b6</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>969dbd1e-3dea-4cc1-a21c-af4d98cb964b</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7842ef8-fb81-412b-b80d-d87a61d72d0a</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>151041b7-b03e-441b-9162-1ebefeb7c68f</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>299db5a5-29fe-42d9-86db-dba726c6eff8</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a75b91c8-99d9-4cbe-987b-3360275401e3</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c6938cd-43ff-4dbc-a5cf-ec89b192b90c</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d16fd06-0f40-4b34-b5c1-9e228a9f1646</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b53370b-02fd-43db-9128-aacca2b16d37</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>192c3a6a-af41-4823-887e-b12cb54fc3ec</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9344a856-c5e5-410f-9a9e-d001609fe8a3</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>528dc7d3-c10d-4636-bd8b-3fe628b66266</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d84d944-ce48-44bf-85e4-94fe7e5e6662</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9eae7da-6f28-4e8b-b345-c78881c8ff97</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bffc19e3-5b58-4cbb-b4c0-6be02787e103</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14c51f49-fff6-4f43-9f14-aecd2298bd61</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fff1876f-337c-42b1-a090-d4990a942e92</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>738503e7-1095-4970-aabc-e043d7d51739</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8a71b4d-148b-4fce-b3f8-894f35b4faed</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e612076-7cd8-4c16-95ce-bb31743d09cb</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>447244ed-c433-44b5-9961-393613859e09</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd217bc6-d2fe-43df-bfb1-96374932798b</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef9ddc34-fcda-445a-b970-4c8009adbe2c</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffe87319-f2d2-4387-81c4-1679e970e06e</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6318e3e3-be1f-4bb4-8ade-5e15df99c1b6</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da07a194-7242-4fea-bb21-c1f04020699c</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e391437-852e-40dc-bbcd-a35afe0f8f1d</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81524395-a050-413c-84cb-15aa99dca7d2</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b63b5bb7-905c-4b8b-b791-97cdb610f5d9</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f83a7fc6-2c6a-4047-ada9-2c5eb3193868</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63fd591f-f424-4fbe-91c1-f5498056ddb3</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b2bbd34-47cc-4a64-8e23-c40b349ce140</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e83e2738-76d5-4324-809b-fdffc2a4f08a</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1371ff5b-16a4-4556-abd2-d1038d773894</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24273971-e517-4f83-9b83-b952b24210af</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcaf1a3d-e7f5-47c5-8948-df97a9908ee2</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67a2a60d-b5bf-4911-9666-3a9d5d50225f</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e0bfc76-315e-4965-bbf4-6cb69317e970</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c2284ee-d154-458c-903b-c9b31b547e5d</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94a2c7f3-e507-47d2-a636-868e6110ff90</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2828417</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2828417"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b37e7cfb-8a2c-4c7c-9811-731f663fc32f</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>ASMD1206-150</value>
+      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C135341</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="LCSC" value="C135341"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7ef0d6f-eaeb-4d5d-a560-0a898367cc9b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7f33c96-62a6-49f2-92f6-835d45c9ff40</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6be37d8b-a1cc-4371-a3fe-bede39e6ad5f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f07c603-e7b5-4dbd-8c4c-89acff9fa5c6</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f73b91c1-a8bb-4f9b-a727-e61ef692795f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b2e3ef6-b61a-480a-b900-6cb7a5b59a37</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17513</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17513"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50952008-6b4a-4e7a-be73-3875adf4ecdd</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46be5df6-733e-4dd4-b9de-460083246122</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_SPST_B3U-1000P</footprint>
+      <fields>
+        <field name="LCSC">C231329</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C231329"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85e9469e-5804-4063-8ef4-5bd6aa7523ac</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93c75546-2c25-4e08-8396-7e9784578872</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b2ab346-f7d3-46cf-9db9-9411574cb3d6</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d29a5ae-a43b-4b35-a026-0283dba3d096</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc1a66ee-ca2f-402c-af0f-501c09482de6</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7af5b068-d547-4e31-89ea-e4bc1936ec47</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec3916b0-6ebe-48ba-aadb-d43cb51e1f46</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78e831ee-e0d7-4a68-8ea8-b5e29fe9d68e</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aab06edd-eb86-45e0-83ec-40044bf3e983</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3264b64-b9cb-4de7-9eef-1b6c9c50957a</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df793c12-19e0-4d9d-838f-8c7bc6db61e7</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17a7ef1d-e006-4d28-ac8b-e8e76289c342</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>207e42e4-93d2-4287-844a-96798ce07dd3</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd7ba29a-8533-4d60-93e5-3543056bab62</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a2735a1-b60b-426d-826a-07656839c783</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20f2d2d6-e0d7-48a7-ae76-7a0a3cbc36b1</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f64be42f-3902-4a39-ad04-b0bedc7257fd</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbc541b6-d4cc-4dae-a159-40111f085956</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c664eec2-ca6d-41fb-bb22-5755e97f947d</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c993ba2f-8711-44d7-a903-c4ccf4dbe835</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bedaa1d0-8d48-441f-8c5e-9af1b227c5e3</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a71ae27c-5a9b-4ac4-a2ba-ac1adb91bafc</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>130a3575-6563-4c3a-835d-685dbf3b9cbe</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d77a3de-f2bd-4e18-a977-3adcf3c6d89f</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>705248ab-34cc-4859-917e-ad1c7badbaad</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ce62045-f8a3-463c-a8d9-9a687872952b</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd096e6a-2dd6-4a5e-8a86-b2d2af92e9a5</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b205661-584e-4103-8ff1-8cda92ecfdc0</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42024f78-7673-456a-82c3-2f6c056c69b8</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0947a722-a83a-4334-8f78-287ca667f2e5</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4653957-25b2-4e60-8ff8-d7a025a7b908</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c57fdc73-c712-439e-b8b4-4e83c9dde416</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60c23c63-911c-4bd3-b828-a39c2c8d2621</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daeb2dd3-3115-439a-9de2-fb02d63ee19d</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>057b7225-6219-46a1-bea3-fd53f8960f1b</tstamps>
+    </comp>
+    <comp ref="SW36">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72f1cc7c-9686-4485-b494-bd8da65dfbe1</tstamps>
+    </comp>
+    <comp ref="SW37">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ed7d87a-6c63-4f91-abf0-c6dd80b9bb6d</tstamps>
+    </comp>
+    <comp ref="SW38">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4094645-f5d8-4b3f-b5db-760590e5ac3d</tstamps>
+    </comp>
+    <comp ref="SW39">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>042bd924-f3f6-4f50-8b1d-8304c91c4482</tstamps>
+    </comp>
+    <comp ref="SW40">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>587cbb97-3c4e-4041-b9bd-12961a6bcdbd</tstamps>
+    </comp>
+    <comp ref="SW41">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c715439-4c5b-4718-b344-f67779c2c1c4</tstamps>
+    </comp>
+    <comp ref="SW42">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9417a81a-389a-42c7-9663-08e01ee2f64d</tstamps>
+    </comp>
+    <comp ref="SW43">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>506f2129-0011-4da1-bfbd-cef6f5074055</tstamps>
+    </comp>
+    <comp ref="SW44">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a870759-edcd-46de-bcad-3cbc92f0c195</tstamps>
+    </comp>
+    <comp ref="SW45">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88ce8e01-00a6-464a-b481-b3a523c909fb</tstamps>
+    </comp>
+    <comp ref="SW46">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4da07115-328f-4035-a4a3-a12376597bd3</tstamps>
+    </comp>
+    <comp ref="SW47">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>057f74cc-6fad-4fdd-830e-0f368cb8451d</tstamps>
+    </comp>
+    <comp ref="SW48">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>435a16fd-183f-46bd-bd04-6a4bc3c25f03</tstamps>
+    </comp>
+    <comp ref="SW49">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4ce9d07-c296-4379-b984-3a54e5ae2db0</tstamps>
+    </comp>
+    <comp ref="SW50">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>733db5c5-8ffb-455f-a36e-45fc1a64ce4b</tstamps>
+    </comp>
+    <comp ref="SW51">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52b78b28-ac3d-499b-a68e-8619c1141a88</tstamps>
+    </comp>
+    <comp ref="SW52">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9eabc7b9-0367-4455-9e1b-b9e712e86e79</tstamps>
+    </comp>
+    <comp ref="SW53">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>589ba508-370e-4d9e-b4d1-aaf983481336</tstamps>
+    </comp>
+    <comp ref="SW54">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79611f9e-bb84-46b5-bc3b-4adccae0effb</tstamps>
+    </comp>
+    <comp ref="SW55">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c73f420-2fd6-4b9e-97f6-cca4bd923038</tstamps>
+    </comp>
+    <comp ref="SW56">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6db7e6e-979a-41e8-b1c3-22aff90e1e8b</tstamps>
+    </comp>
+    <comp ref="SW57">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f68311f0-425c-4075-a270-0eb7edb2b72a</tstamps>
+    </comp>
+    <comp ref="SW58">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1419dae-f380-4b17-9945-04e46be84ea5</tstamps>
+    </comp>
+    <comp ref="SW59">
+      <value>SW_PUSH</value>
+      <footprint>Switch_Keyboard_Kailh:SW_Kailh_Choc_V1</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9711b981-39b0-405b-a248-ec208ba370a9</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PRTR5V0U2X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-143</footprint>
+      <fields>
+        <field name="LCSC">C2827688</field>
+      </fields>
+      <libsource lib="random-keyboard-parts" part="PRTR5V0U2X" description=""/>
+      <property name="LCSC" value="C2827688"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d3b623e-7302-4e72-b833-bb4c26e94c96</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ATmega32U4-A</value>
+      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-A" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d759aa0-1145-43ae-a507-a45f6fc89e2a</tstamps>
+    </comp>
+    <comp ref="USB1">
+      <value>HRO-TYPE-C-31-M-12</value>
+      <footprint>Type-C:HRO-TYPE-C-31-M-12-Assembly</footprint>
+      <fields>
+        <field name="LCSC">C165948</field>
+      </fields>
+      <libsource lib="Type-C" part="HRO-TYPE-C-31-M-12" description=""/>
+      <property name="LCSC" value="C165948"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>495f9c23-27b9-4a19-91c1-9b9dd0938c56</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>16HMz</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering</footprint>
+      <fields>
+        <field name="LCSC">C13738</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="LCSC" value="C13738"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="oso-o-46.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9740a28b-c236-44b3-9926-fa4f72172ed3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-A">
+      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
+      <footprints>
+        <fp>TQFP*10x10mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32U4-A</field>
+        <field name="Footprint">Package_QFP:TQFP-44_10x10mm_P0.8mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6" type="bidirectional"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="bidirectional"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="UGND" type="passive"/>
+        <pin num="6" name="UCAP" type="passive"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="PB0" type="bidirectional"/>
+        <pin num="9" name="PB1" type="bidirectional"/>
+        <pin num="10" name="PB2" type="bidirectional"/>
+        <pin num="11" name="PB3" type="bidirectional"/>
+        <pin num="12" name="PB7" type="bidirectional"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="output"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="PD0" type="bidirectional"/>
+        <pin num="19" name="PD1" type="bidirectional"/>
+        <pin num="20" name="PD2" type="bidirectional"/>
+        <pin num="21" name="PD3" type="bidirectional"/>
+        <pin num="22" name="PD5" type="bidirectional"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4" type="bidirectional"/>
+        <pin num="26" name="PD6" type="bidirectional"/>
+        <pin num="27" name="PD7" type="bidirectional"/>
+        <pin num="28" name="PB4" type="bidirectional"/>
+        <pin num="29" name="PB5" type="bidirectional"/>
+        <pin num="30" name="PB6" type="bidirectional"/>
+        <pin num="31" name="PC6" type="bidirectional"/>
+        <pin num="32" name="PC7" type="bidirectional"/>
+        <pin num="33" name="~{HWB}/PE2" type="bidirectional"/>
+        <pin num="34" name="VCC" type="passive"/>
+        <pin num="35" name="GND" type="passive"/>
+        <pin num="36" name="PF7" type="bidirectional"/>
+        <pin num="37" name="PF6" type="bidirectional"/>
+        <pin num="38" name="PF5" type="bidirectional"/>
+        <pin num="39" name="PF4" type="bidirectional"/>
+        <pin num="40" name="PF1" type="bidirectional"/>
+        <pin num="41" name="PF0" type="bidirectional"/>
+        <pin num="42" name="AREF" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="AVCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Type-C" part="HRO-TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">HRO-TYPE-C-31-M-12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VBUS" type="input"/>
+        <pin num="3" name="SBU2" type="input"/>
+        <pin num="4" name="CC1" type="input"/>
+        <pin num="5" name="DN2" type="input"/>
+        <pin num="6" name="DP1" type="input"/>
+        <pin num="7" name="DN1" type="input"/>
+        <pin num="8" name="DP2" type="input"/>
+        <pin num="9" name="SBU1" type="input"/>
+        <pin num="10" name="CC2" type="input"/>
+        <pin num="11" name="VBUS" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="random-keyboard-parts" part="PRTR5V0U2X">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PRTR5V0U2X</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="IO1" type="input"/>
+        <pin num="3" name="IO2" type="input"/>
+        <pin num="4" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_Microchip_ATmega.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Type-C">
+      <uri>C:/workspace/keyboard/Type-C.pretty-master/Type-C.lib</uri>
+    </library>
+    <library logical="keyboard_parts">
+      <uri>C:/workspace/keyboard/kicad_lib_tmk-master/keyboard_parts.lib</uri>
+    </library>
+    <library logical="random-keyboard-parts">
+      <uri>C:/workspace/keyboard/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="UVCC" pintype="power_in"/>
+      <node ref="U2" pin="24" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U2" pin="34" pinfunction="VCC" pintype="passive"/>
+      <node ref="U2" pin="44" pinfunction="AVCC" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="2" name="COL01">
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW38" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW50" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="COL02">
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW51" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="40" pinfunction="PF1" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="COL03">
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW40" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW52" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="39" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="COL04">
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW41" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="38" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="COL05">
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW42" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW53" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="37" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="COL06">
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW43" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW54" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="36" pinfunction="PF7" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="COL07">
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW44" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW55" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="27" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="COL08">
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW45" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW56" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="25" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="COL09">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW46" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="COL10">
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW47" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="COL11">
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW36" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW48" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="COL12">
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW37" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW49" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="D+">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="D-">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="23" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="35" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="UGND" pintype="passive"/>
+      <node ref="USB1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="USB1" pin="12" pinfunction="GND" pintype="input"/>
+      <node ref="USB1" pin="13" pinfunction="SHIELD" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="17" name="LED">
+      <node ref="U2" pin="21" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="UCAP" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW36" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW37" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW38" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW39" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW40" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW41" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW42" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW44" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW45" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW46" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW47" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW48" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW49" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW50" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW51" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW52" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW53" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW54" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW55" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW56" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW57" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW58" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW59" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="4" pinfunction="CC1" pintype="input"/>
+    </net>
+    <net code="81" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="IO2" pintype="input"/>
+      <node ref="USB1" pin="6" pinfunction="DP1" pintype="input"/>
+      <node ref="USB1" pin="8" pinfunction="DP2" pintype="input"/>
+    </net>
+    <net code="82" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="IO1" pintype="input"/>
+      <node ref="USB1" pin="5" pinfunction="DN2" pintype="input"/>
+      <node ref="USB1" pin="7" pinfunction="DN1" pintype="input"/>
+    </net>
+    <net code="83" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="10" pinfunction="CC2" pintype="input"/>
+    </net>
+    <net code="84" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="RESET">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="86" name="ROW01">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="31" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="ROW02">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="30" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="ROW03">
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="29" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="ROW04">
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="28" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="ROW05">
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="VCC">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VCC" pintype="input"/>
+      <node ref="USB1" pin="11" pinfunction="VBUS" pintype="input"/>
+      <node ref="USB1" pin="2" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="92" name="unconnected-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="PB0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="PB1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="PB3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U2-Pad26)">
+      <node ref="U2" pin="26" pinfunction="PD6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U2-Pad32)">
+      <node ref="U2" pin="32" pinfunction="PC7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U2-Pad42)">
+      <node ref="U2" pin="42" pinfunction="AREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(USB1-Pad3)">
+      <node ref="USB1" pin="3" pinfunction="SBU2" pintype="input+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(USB1-Pad9)">
+      <node ref="USB1" pin="9" pinfunction="SBU1" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
